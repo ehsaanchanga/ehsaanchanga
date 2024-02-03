@@ -1,15 +1,20 @@
+![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/3fdca92b583372667c5943ee6bae0787.gif?width=1500&name=3fdca92b583372667c5943ee6bae0787.gif)
+<h1 align="center">Hi 👋, My name is Ehsaan Changa</h1>
+<h3 align="center">I'm a software engineer with a passion for Solving real world problems br witing code</h3>
+<img align="right" alt="coding" width="400" src="https://contentstatic.techgig.com/thumb/msid-79110796,width-460,resizemode-4/5-Strongest-reasons-for-non-programmers-to-learn-coding.jpg?58220"/>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ehsaanchanga&label=Profile%20views&color=0e75b6&style=flat" alt="ehsaanchanga" /> </p>
 
-Hi 👋 My name is Vivian Guillen
-I'm a Frontend Developer with a passion for CSS & JS
-I've been learning to code for 10 years now, time flies! It feels like just yesterday when I wrote my first line of JavaScript. I fell head over heels for it and even today, I'm as comfortable with it as ever. These days, I'm diving into Laravel, setting my sights on becoming a full-stack developer. My goal? To be able to code a SaaS all by myself!
+- 👯 I’m passionate about collaborating to **open saurce projects** ❤
 
-⭐ After freelancing for the last 5 years I'm ready for a change and I'm now looking for a full-time job. I'm mainly a Vue girl but can also work with React, and have some experience with Laravel. I'm also a huge Tailwind CSS fan (so much that I run Tailwind Weekly) and love working with it too.
+- 📫 How to reach me **ehsanchanga123@gmail.com** 
 
-If you or anybody you know is looking for a seasoned frontend developer who is also eager to learn backend then let's chat 😁
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/ehsaan-changa-5721b9213/">
+  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ehsaanchanga/">
+  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
 
-🇩🇴  I'm based in the Dominican Republic, in the AST timezone
-✉️  You can contact me at me@vivian.do
-🚀  I'm currently working on Red Pixel Themes
-Skills
-JavaScript Git PHP TypeScript HTML5 React Vue Nuxtjs CSS3 TailwindCSS Vite Laravel Shopify Figma Sketch
