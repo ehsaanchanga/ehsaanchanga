@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ehsaanchanga&label=Profile%20views&color=0e75b6&style=flat" alt="ehsaanchanga" /> </p>
 
-- 👯 I’m passionate about collaborating to **open saurce projects** ❤
+- 👯 I’m passionate about collaborating to **open saurce projects** 
 
 - 📫 How to reach me **ehsanchanga123@gmail.com** 
 
