@@ -11,10 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ehsaan-changa-5721b9213/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ehsaanchanga/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ehsaan's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
 
