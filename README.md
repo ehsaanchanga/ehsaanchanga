@@ -1,5 +1,5 @@
 # Ehsaan Changa  
-### Software Engineer | Problem Solver | Open Source Enthusiast  
+### Software Engineer | Problem Solver 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ehsaanchanga&label=Profile%20Views&color=0e75b6&style=flat)
 
